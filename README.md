@@ -9,3 +9,7 @@
 [Simulations](https://www.simscale.com/)\
 [Useful Engineering Site](https://www.enggroom.com/)\
 [Microcontrollers Simulator](https://benchtwin.com/)
+
+## Public APIs
+
+- [Bucketlist.nl Dream of the Day API (OpenAPI)](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) — No-key daily travel and life-experience JSON; Dutch default with optional English.
